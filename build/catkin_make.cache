@@ -1,0 +1,2 @@
+my_webrtc
+-DCATKIN_DEVEL_PREFIX=/home/setareh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/setareh/catkin_ws/install -G Unix Makefiles

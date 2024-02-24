@@ -1,0 +1,98 @@
+2024-02-21 23:57:16.192 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:16.198 PROFILE executeGetTokenSignalingState(): [Get token call] Time taken: 0 ms
+2024-02-21 23:57:16.198 PROFILE createSignalingClientSync(): [Create signaling client] Time taken: 1 ms
+2024-02-21 23:57:16.198 PROFILE executeDescribeSignalingState(): [Describe signaling call] Time taken: 0 ms
+2024-02-21 23:57:16.198 PROFILE executeGetEndpointSignalingState(): [Get endpoint signaling call] Time taken: 0 ms
+2024-02-21 23:57:16.508 PROFILE executeGetIceConfigSignalingState(): [Get ICE config signaling call] Time taken: 310 ms
+2024-02-21 23:57:16.508 PROFILE signalingClientFetchSync(): [Fetch signaling client] Time taken: 310 ms
+2024-02-21 23:57:16.852 PROFILE executeConnectSignalingState(): [Connect signaling call] Time taken: 343 ms
+2024-02-21 23:57:16.852 PROFILE signalingClientConnectSync(): [Connect signaling client] Time taken: 343 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling Get token] 0 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling Describe] 0 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling Describe Media] 0 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling Create Channel] 0 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling Get endpoint] 0 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling Get ICE config] 310 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling Connect] 343 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling create client] 1 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling fetch client] 310 ms
+2024-02-21 23:57:16.852 PROFILE initSignaling(): [Signaling connect client] 343 ms
+2024-02-21 23:57:16.866 PROFILE getIpWithHostName(): ICE Server address for stun.kinesisvideo.us-west-2.amazonaws.com with getaddrinfo: 52.40.66.127
+2024-02-21 23:57:16.866 PROFILE createIceAgent(): [ICE server parsing] Time taken: 13 ms
+2024-02-21 23:57:16.866 PROFILE getIpWithHostName(): ICE Server address for 54-218-27-210.t-1cd92f6b.kinesisvideo.us-west-2.amazonaws.com: 54.218.27.210
+2024-02-21 23:57:16.867 PROFILE createIceAgent(): [ICE server parsing] Time taken: 0 ms
+2024-02-21 23:57:16.867 PROFILE getIpWithHostName(): ICE Server address for 54-218-27-210.t-1cd92f6b.kinesisvideo.us-west-2.amazonaws.com: 54.218.27.210
+2024-02-21 23:57:16.867 PROFILE createIceAgent(): [ICE server parsing] Time taken: 0 ms
+2024-02-21 23:57:16.867 PROFILE getIpWithHostName(): ICE Server address for 54-218-27-210.t-1cd92f6b.kinesisvideo.us-west-2.amazonaws.com: 54.218.27.210
+2024-02-21 23:57:16.867 PROFILE createIceAgent(): [ICE server parsing] Time taken: 0 ms
+2024-02-21 23:57:16.867 PROFILE createPeerConnection(): [Peer connection object creation time] Time taken: 14 ms
+2024-02-21 23:57:16.867 PROFILE iceAgentStartGathering(): [Host candidate gathering from local interfaces] Time taken: 0 ms
+2024-02-21 23:57:16.867 PROFILE iceAgentStartGathering(): [Host candidates setup time] Time taken: 0 ms
+2024-02-21 23:57:16.867 PROFILE iceAgentStartGathering(): [Srflx candidates setup time] Time taken: 0 ms
+2024-02-21 23:57:16.867 PROFILE iceAgentStartGathering(): [Relay candidates setup time] Time taken: 0 ms
+2024-02-21 23:57:17.172 PROFILE socketConnectionTlsSessionOnStateChange(): [TLS handshake time] Time taken: 201 ms
+2024-02-21 23:57:17.191 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:17.524 PROFILE iceAgentGatherCandidateTimerCallback(): [Candidate gathering time] Time taken: 657 ms
+2024-02-21 23:57:18.192 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:19.192 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:20.192 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:21.193 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:22.193 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:23.193 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:24.194 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:25.194 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:26.194 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:27.194 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:28.194 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:29.195 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:30.195 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:31.113 PROFILE receiveLwsMessageWrapper(): [Offer Sent to Answer Received time] Time taken: 14245 ms
+2024-02-21 23:57:31.113 PROFILE signalingMessageReceived(): [Signaling offer sent to answer received time] 14245 ms
+2024-02-21 23:57:31.195 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:31.217 PROFILE executeNominatingIceAgentState(): [ICE candidate pair nomination] Time taken: 0 ms
+2024-02-21 23:57:31.267 PROFILE iceAgentReadyStateSetup(): Selected pair 76kE2J9LS_9pqwQ7kvW, local candidate type: host. remote candidate type: prflx. Round trip time 6 ms. Local candidate priority: 2130706431, ice candidate pair priority: 7962116751041232894
+2024-02-21 23:57:31.267 PROFILE executeReadyIceAgentState(): [Time taken to get ICE Agent ready for media exchange] Time taken: 150 ms
+2024-02-21 23:57:31.357 PROFILE dtlsSessionChangeState(): [DTLS initialization completion] Time taken: 190 ms
+2024-02-21 23:57:31.358 PROFILE changePeerConnectionState(): [ICE Hole Punching Time] Time taken: 241 ms
+2024-02-21 23:57:32.195 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:33.196 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:34.196 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:35.196 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:36.196 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:37.196 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:38.197 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:39.197 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:40.197 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:41.197 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:42.197 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:43.198 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:44.198 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:45.198 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:46.198 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:47.198 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:48.198 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:49.199 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:50.199 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:51.199 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:52.199 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:53.200 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:54.200 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:55.200 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:56.200 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:57.200 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:58.201 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:57:59.201 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:00.201 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:01.201 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:02.201 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:03.201 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:04.202 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:05.202 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:06.202 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:07.202 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:08.203 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:09.203 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:10.203 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:11.204 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:12.204 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms
+2024-02-21 23:58:13.204 PROFILE createRtcCertificate(): [Certificate creation time] Time taken: 0 ms

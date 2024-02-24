@@ -1,0 +1,2 @@
+ScaryTestChannel,Viewer,us-west-2,arn:aws:kinesisvideo:us-west-2:730335399775:channel/ScaryTestChannel/1708463523942,https://r-0595b96f.kinesisvideo.us-west-2.amazonaws.com,wss://v-f6613e1b.kinesisvideo.us-west-2.amazonaws.com,0,,,1708530504
+demo-channel,Viewer,us-west-2,arn:aws:kinesisvideo:us-west-2:730335399775:channel/demo-channel/1706907358874,https://r-3e44f1a2.kinesisvideo.us-west-2.amazonaws.com,wss://v-4b2fab3e.kinesisvideo.us-west-2.amazonaws.com,0,,,1708622937

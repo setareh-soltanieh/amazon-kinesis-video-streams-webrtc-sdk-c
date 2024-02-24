@@ -1,0 +1,8 @@
+prefix=/home/setareh/catkin_ws/devel
+
+Name: my_webrtc
+Description: Description of my_webrtc
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
